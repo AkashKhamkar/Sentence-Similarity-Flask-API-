@@ -20,3 +20,11 @@
 <h2> OUTPUT: </h2>
 
 (![image](https://user-images.githubusercontent.com/34622497/180644383-4bb16fcc-c4e2-4491-8cf1-68ced5bb79de.png)
+
+
+
+
+-   Here I have used ngrok library as the project was done in gogle collab.
+-   As local hosting can't be done in google collab I have used ngrok_flask library.
+-   ngrok basically allows you to host the flask app on ngrok domain instead of local hosting.
+-   Also this flask app is easily deployable anywhere with or without the ngrok library and the api works perfectly.
