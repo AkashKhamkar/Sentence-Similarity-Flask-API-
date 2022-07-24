@@ -3,7 +3,7 @@
 
 <h2> 1. sentence_similarity.py file </h2>
 
--   I have used "<b>all-MiniLM-L6-v2</b>" model from the Hugging Face library. 
+-   I have used pretrained "<b>all-MiniLM-L6-v2</b>" model from the Hugging Face library which is trained on more than 1 billion sentence pairs. 
 -   This model basically maps the sentences & paragraphs to a 384 dimensional dense vector space.
 -  This file contains the code for the flask app and api and the model loading and tokenizing as well as generating the output.
 
