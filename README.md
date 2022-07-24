@@ -24,6 +24,7 @@
 
 
 
+
 -   Here I have used ngrok library as the project was done in gogle collab.
 -   As local hosting can't be done in google collab I have used ngrok_flask library.
 -   ngrok basically allows you to host the flask app on ngrok domain instead of local hosting.
